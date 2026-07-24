@@ -1,1 +1,25 @@
-# Hackerrank-Data-Structures-with-CSharp
+# Hackerrank Data Structures
+## Medium
+| Problem | Description | 
+| --- | --- | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+## Easy
+| Problem | Description | 
+| --- | --- | 
+|  |  | 
+|  |  | 
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
