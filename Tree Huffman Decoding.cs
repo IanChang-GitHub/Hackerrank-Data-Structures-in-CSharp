@@ -18,7 +18,7 @@ class Node
 class Solution
 {
 
-    static void decode(string s, Node root)
+    static void decode(string s, Node root) //解碼
     {
         if (root == null || string.IsNullOrEmpty(s)) 
             return;
@@ -26,7 +26,7 @@ class Solution
         Node current = root;
         for (int i = 0; i < s.Length; i++)
         {
-            current = (s[i] == '0') ? current.left : current.right;
+            current = (s[i] == '0') ? current.left : current.right; //0走左子樹,1走右子樹
 
             if (current.left == null && current.right == null)
             {
@@ -36,7 +36,7 @@ class Solution
         }
     }
 
-    static void BuildCodeMap(Node node, string currentCode, Dictionary<char, string> codeMap)
+    static void BuildCodeMap(Node node, string currentCode, Dictionary<char, string> codeMap) //DFS
     {
         if (node == null) 
             return;
