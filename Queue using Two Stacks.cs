@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 class Queue
 {
-    private Stack<int> stackIn = new Stack<int>(); 
-    private Stack<int> stackOut = new Stack<int>();
+    private Stack<int> stackIn = new Stack<int>(); //push用
+    private Stack<int> stackOut = new Stack<int>(); //pop用
     
     public void Enqueue(int x)
     {
@@ -23,9 +23,9 @@ class Queue
         
     }
     
-    public void reverseStack() //反轉排序到另一個stack
+    public void reverseStack() //反轉順序到另一個stack
     {
-        if (stackOut.Count == 0) //另一個stack沒item才做反轉
+        if (stackOut.Count == 0) //沒東西pop才做反轉
         {
             while(stackIn.Count > 0)
             {
