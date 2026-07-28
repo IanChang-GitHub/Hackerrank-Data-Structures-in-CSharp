@@ -29,7 +29,6 @@ public class Result
         }
 
 
-        // 步驟 2：處理每一次的查詢 K
         foreach (int k in queries)
         {
             Swap(1, 1, k, leftChild, rightChild); //root, depth, query, leftchild, rightchild
