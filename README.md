@@ -1,8 +1,8 @@
-<img src="https://github.com/IanChang-GitHub/HackerRank_Algorithms_in_CSharp/blob/main/HackerRank%20Logo.png" width="480" height="320">
+<img src="https://github.com/IanChang-GitHub/HackerRank_Algorithms_in_CSharp/blob/main/HackerRank%20Logo.png" width="360" height="180">
 
 # Hackerrank Data Structures
 
-## Medium
+## Medium ★★☆
 
 | Problem | Description |
 | --- | --- | 
@@ -11,7 +11,7 @@
 | Is This a Binary Search Tree?| https://www.hackerrank.com/challenges/is-binary-search-tree/problem |
 | Queue using Two Stacks| https://www.hackerrank.com/challenges/queue-using-two-stacks/problem |
 | Swap Nodes [Algo] | https://www.hackerrank.com/challenges/swap-nodes-algo/problem |
-|  |  |
+| Self Balancing Tree | https://www.hackerrank.com/challenges/self-balancing-tree/problem |
 |  |  |
 |  |  |
 |  |  |
@@ -19,7 +19,7 @@
 |  |  |
 |  |  |
 
-## Easy
+## Easy ★☆☆
 
 | Problem | Description |
 | --- | --- |
