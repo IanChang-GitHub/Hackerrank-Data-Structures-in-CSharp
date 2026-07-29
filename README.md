@@ -24,7 +24,7 @@
 | Problem | Description |
 | --- | --- |
 | 2D Array - DS | https://www.hackerrank.com/challenges/2d-array/problem |
-|  |  |
+| Dynamic Array | https://www.hackerrank.com/challenges/dynamic-array/problem |
 |  |  |
 |  |  |
 |  |  |
